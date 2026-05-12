@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://4x4king.com/sitemap.xml
